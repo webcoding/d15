@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "767cc7119249348f45ce",
+    "revision": "f1972e24acd42b8ceeb5",
     "url": "/static/css/app.20313ce5.css"
   },
   {
-    "revision": "767cc7119249348f45ce",
-    "url": "/static/js/app.2071ba97.js"
+    "revision": "f1972e24acd42b8ceeb5",
+    "url": "/static/js/app.68df924c.js"
   },
   {
     "revision": "0fb521ebb1d64afbab0e",
@@ -148,12 +148,12 @@ self.__precacheManifest = [
     "url": "/static/js/login-social-signin-vue.512399bc.js"
   },
   {
-    "revision": "dbed892e21715b897f40",
-    "url": "/static/css/modules-config-json-vue.3839815e.css"
+    "revision": "2166c118a9d94dccff91",
+    "url": "/static/css/modules-config-json-vue.20b896e5.css"
   },
   {
-    "revision": "dbed892e21715b897f40",
-    "url": "/static/js/modules-config-json-vue.89ad9a23.js"
+    "revision": "2166c118a9d94dccff91",
+    "url": "/static/js/modules-config-json-vue.710ffb6e.js"
   },
   {
     "revision": "422aab667b521b652a0a",
@@ -464,7 +464,7 @@ self.__precacheManifest = [
     "url": "/js/ui.ccce2ce3.dll.js"
   },
   {
-    "revision": "008f28c9a3c221854e30f281d4f9d829",
+    "revision": "f0ec467ba0e40c589d95f1b4d0d70d55",
     "url": "/index.html"
   },
   {
